@@ -19,7 +19,7 @@ body
     align-items: center;
     font-size: 32px;
 }
-.contactus .conntactus-text h2{
+.contactus .conntactus-text ,h2{
     color: white;
     font-weight: 500;
 }
